@@ -1,0 +1,7 @@
+{
+  "name": "fw-react-select-alert-no-scroll",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
